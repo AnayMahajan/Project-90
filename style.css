@@ -1,0 +1,22 @@
+body{
+    background-image: url("BI3.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+#player_1_div, #player_2_div{
+    background-color: blanchedalmond;
+    width: 60%;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+#img_logo{
+    width: 5%;
+    height: 5%;
+}
+#body2{
+    background-image: url("B3.jpg");
+}
+
+
+
